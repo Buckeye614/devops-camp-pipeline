@@ -7,6 +7,7 @@ pipeline {
         HARBOR_REGISTRY = 'harbor.dev.afsmtddso.com'
         HARBOR_PROJECT = 'ajohnson-harbor-project'
         APP_IMAGE_NAME = 'app'
+        -- Lab 6 updates
     }
     //TODO("Lab 4 - Artifact Management"): add environment variables
     stages {
